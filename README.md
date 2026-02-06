@@ -28,11 +28,11 @@ UI is optional. Logic is not.
 
 - 🎓 Started coding during **BCA**, before frameworks were a crutch  
 - 🧠 Backend-first by instinct — databases before buttons  
-- 🤖 Amateur **LLM Enthusiast** & Hobbyist (AI-Assisted Coding ✅ | Vibe Coding ❌)
 - 🏗️ Built **web, mobile, desktop, automation, voice assistants**
 - 🤝 Built most of my career through **client satisfaction and referrals**, not online self-promotion  
 - 🚀 Co-founded **Combinativ Softworks** after **MCA**
 - 🌐 Broad technical horizon shaped by working across languages, paradigms, and platforms  
+- 🤖 Amateur **LLM Enthusiast** & Hobbyist (AI-Assisted Coding ✅ | Vibe Coding ❌)
 - 📉 Rarely needed public portfolios — delivered systems spoke for themselves  
 
 ---
