@@ -13,13 +13,10 @@ Software Engineer · Full-Stack Web Application Developer · Co-Founder @ <b>Com
 </h3>
 
 <p align="center">
-I build systems from the inside out.<br/>
+I build software systems from the inside out.<br/>
 UI is optional. Logic is not.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=👀%20Profile%20Views&color=blueviolet&style=flat"/>
-</p>
 
 ---
 
@@ -33,9 +30,9 @@ UI is optional. Logic is not.
 - 🧠 Backend-first by instinct — databases before buttons  
 - 🏗️ Built **web, mobile, desktop, automation, voice assistants**
 - 🤝 Built most of my career through **client satisfaction and referrals**, not online self-promotion  
-- 🚀 Founded **Combinativ Softworks** after **MCA**.
-- 🌐 Broad technical horizon shaped by working across many languages, paradigms, and platforms
-- 📉 Rarely needed public portfolios or profiles — delivered systems spoke for themselves  
+- 🚀 Co-founded **Combinativ Softworks** after **MCA**
+- 🌐 Broad technical horizon shaped by working across languages, paradigms, and platforms  
+- 📉 Rarely needed public portfolios — delivered systems spoke for themselves  
 
 ---
 
@@ -47,14 +44,17 @@ UI is optional. Logic is not.
 </p>
 
 **Languages & Tools**
-- C / C++
-- VB.NET
-- ASP.NET
-- Java
-- Python
-- JavaScript
-- PHP + MySQL
-- Android (Java)
+
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![VB.NET](https://img.shields.io/badge/VB.NET-111111?style=for-the-badge&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-111111?style=for-the-badge&logo=dotnet)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![Android](https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android)
 
 > Learned by doing.  
 > Mostly learned by making & breaking things.
@@ -66,12 +66,13 @@ UI is optional. Logic is not.
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
 </p>
 
-- Laravel (PHP)
-- CodeIgniter(PHP)
-- Material UI
-- Android Apps
-- First real clients
-- First real bugs at 2 AM
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-111111?style=for-the-badge&logo=codeigniter)
+![Material UI](https://img.shields.io/badge/Material_UI-111111?style=for-the-badge&logo=mui)
+![Android](https://img.shields.io/badge/Android_Apps-111111?style=for-the-badge&logo=android)
+
+> First real clients.  
+> First real bugs at 2 AM.
 
 ---
 
@@ -80,12 +81,15 @@ UI is optional. Logic is not.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW93NGhsam1mNDB0OWFnaHBuMnR2aHM5bWltcTFjYzVxMGxoejIwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
 </p>
 
-**Stack of Choice**
-- 🔥 **MERN > MEAN (any day, no debate)**
-- Node.js + Express
-- React
-- REST APIs & Webhooks
-- Electron (Desktop Apps)
+🔥 **MERN > MEAN (any day, no debate)**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-111111?style=for-the-badge&logo=electron)
 
 ---
 
@@ -94,12 +98,13 @@ UI is optional. Logic is not.
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="350"/>
 </p>
 
-- React Native (Android + iOS)
-- Swift (Native iOS)
-- Flask / Django
-- Ruby
-- Tailwind
-- Advanced JavaScript & system design
+![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react)
+![iOS](https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=apple)
+![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
+![Ruby](https://img.shields.io/badge/Ruby-111111?style=for-the-badge&logo=ruby)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss)
 
 ---
 
@@ -111,25 +116,24 @@ UI is optional. Logic is not.
 
 | App | Stack | Why It Mattered |
 |----|------|----------------|
-| Android Messenger | Android Java, PHP, MySQL | Stickers, doodles, tap alerts |
-| iOS & Cross-Platform Apps | React Native, Swift | Native + hybrid apps |
-| Voice Assistant | Java + Sphinx | Voice → OS automation |
-| Tutor Platform | PHP, MySQL | Teachers + students + uploads |
-| Game Portal | PHP, MySQL, ActionScript | Flash games + score tracking |
-| Hotel Booking Platform | Node.js, React | API-driven system |
-| Android PDF Audio Reader | Android Java, TTS Engine | Reads PDF text aloud like an MP3 player |
+| Android Messenger | Android · Java · PHP · MySQL | Stickers, doodles, tap alerts |
+| iOS & Cross-Platform Apps | React Native · Swift | Native + hybrid apps |
+| Voice Assistant | Java · CMU Sphinx | Voice → OS automation |
+| Tutor Platform | PHP · MySQL | Teachers + students + uploads |
+| Game Portal | PHP · MySQL · ActionScript | Flash games + score tracking |
+| Hotel Booking Platform | Node.js · React | API-driven system |
+| Android PDF Audio Reader | Android · TTS | PDF text → audio playback |
 | Desktop Tools | Electron | Cross-platform utilities |
-| Client Projects | Laravel, MERN | Paid, shipped, maintained |
+| Client Projects | Laravel · MERN | Paid, shipped, maintained |
 
 ---
-
 
 ## 🚀 Career Journey (Story Mode)
 
 - Started with **raw backend code**, not tutorials  
-- Learned scalability by **shipping real software to real users**
-- Explored *everything* before choosing preferences
-- Founded **Combinativ Softworks** and owned systems end-to-end
+- Learned scalability by **shipping real software**
+- Explored broadly before forming opinions
+- Co-founded **Combinativ Softworks** and owned systems end-to-end
 - Settled on **systems thinking > framework hype**
 
 > I don’t chase trends.  
@@ -154,6 +158,7 @@ UI is optional. Logic is not.
 ## 🔧 Current Focus (2026)
 
 - Designing **end-to-end systems**
+- Full-stack web applications (MERN)
 - Mobile apps (React Native + Swift)
 - Scalable backend platforms
 - Mentoring & architectural reviews
@@ -167,8 +172,8 @@ UI is optional. Logic is not.
 </p>
 
 - Grew organically through **referrals and long-term client relationships**, without actively marketing myself online
-- 🌐 Website: [https://combinativ.com]
-- 📧 Email: [diganto@combinativ.com]
+- 🌐 Website: https://combinativ.com  
+- 📧 Email: diganto@combinativ.com  
 
 ---
 
